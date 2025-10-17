@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NIWfCnWaENo=",
+  "dgSpecHash": "m99iYBi07bY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\praneeth.r.gadipelli\\Desktop\\Magnis_praneeth\\Fullstack_local\\backend\\UserApi\\UserApi.csproj",
+  "projectFilePath": "C:\\Users\\praneeth.r.gadipelli\\Desktop\\Magnis_praneeth\\Fullstack_local\\Fullstack_local\\backend\\UserApi\\UserApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\praneeth.r.gadipelli\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.9\\microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
     "C:\\Users\\praneeth.r.gadipelli\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.1\\microsoft.entityframeworkcore.9.0.1.nupkg.sha512",
